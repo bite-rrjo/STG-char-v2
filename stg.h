@@ -1,4 +1,5 @@
 
+
 /*
            _____    
           / ___ \  
@@ -13,12 +14,13 @@
     Gracias por verme o usarme!!!!
 */
 #define null 0
-#define creator rrjo
-#define github bite-rrjo
+#define creator IanVC
 #define version 1.0
 #define ULongMax  18446744073709551615
 #define CMax 14000
+
 typedef unsigned long ulong;
+
 
 class stg{
     private:
